@@ -23,7 +23,7 @@ const emailTemplates = {
             <table role="presentation" border="0" width="100%" cellspacing="0">
                 <tr>
                     <td bgcolor="#f8f8f8" align="left" style="color: white;">
-                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1691166104/Thrive-Together/thrive-header2_xbl9mi.png"
+                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1708311095/portfolio_website/Group_2_kclyxd.png"
                             style="object-fit: contain" alt="" width="100%">
                     </td>
                 </tr>
@@ -128,7 +128,7 @@ const emailTemplates = {
             <table role="presentation" border="0" width="100%" cellspacing="0">
                 <tr>
                     <td bgcolor="#f8f8f8" align="left" style="color: white;">
-                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1691166104/Thrive-Together/thrive-header2_xbl9mi.png"
+                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1708311095/portfolio_website/Group_2_kclyxd.png"
                             style="object-fit: contain" alt="" width="100%">
                     </td>
                 </tr>
@@ -212,7 +212,7 @@ const emailTemplates = {
             <table role="presentation" border="0" width="100%" cellspacing="0">
                 <tr>
                     <td bgcolor="#f8f8f8" align="left" style="color: white;">
-                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1691166104/Thrive-Together/thrive-header2_xbl9mi.png"
+                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1708311095/portfolio_website/Group_2_kclyxd.png"
                             style="object-fit: contain" alt="" width="100%">
                     </td>
                 </tr>
@@ -280,7 +280,7 @@ const emailTemplates = {
             <table role="presentation" border="0" width="100%" cellspacing="0">
                 <tr>
                     <td bgcolor="#f8f8f8" align="left" style="color: white;">
-                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1691166104/Thrive-Together/thrive-header2_xbl9mi.png"
+                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1708311095/portfolio_website/Group_2_kclyxd.png"
                             style="object-fit: contain" alt="" width="100%">
                     </td>
                 </tr>
@@ -350,7 +350,7 @@ const emailTemplates = {
             <table role="presentation" border="0" width="100%" cellspacing="0">
                 <tr>
                     <td bgcolor="#f8f8f8" align="left" style="color: white;">
-                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1691166104/Thrive-Together/thrive-header2_xbl9mi.png"
+                        <img src="https://res.cloudinary.com/dfscst5lw/image/upload/v1708311095/portfolio_website/Group_2_kclyxd.png"
                             style="object-fit: contain" alt="" width="100%">
                     </td>
                 </tr>
